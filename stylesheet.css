@@ -1,0 +1,56 @@
+.score_list{
+text-align: center
+}
+.score_list li 
+{
+float: left; width: 50%;
+background-repeat: no-repeat;
+height: 32px;
+list-style-type: none;
+
+}
+.score_list a{
+float: left; width: 100%;
+
+}
+
+#strength {background-image: url(images/strength.png);}
+#attack {background-image: url(images/attack.png);}
+#defence {background-image: url(images/defence.png);}
+#constitution {background-image: url(images/constitution.png);}
+#ranged {background-image: url(images/ranged.png);}
+#prayer {background-image: url(images/prayer.png);}
+#magic {background-image: url(images/magic.png);}
+#cooking {background-image: url(images/cooking.png);}
+#woodcutting {background-image: url(images/woodcutting.png);}
+#fletching {background-image: url(images/fletching.png);}
+#fishing {background-image: url(images/fishing.png);}
+#firemaking {background-image: url(images/firemaking.png);}
+#crafting {background-image: url(images/crafting.png);}
+#smithing {background-image: url(images/smithing.png);}
+#mining {background-image: url(images/mining.png);}
+#herblore {background-image: url(images/herblore.png);}
+#agility {background-image: url(images/agility.png);}
+#thieving {background-image: url(images/thieving.png);}
+#slayer {background-image: url(images/slayer.png);}
+#farming {background-image: url(images/farming.png);}
+#hunter {background-image: url(images/hunter.png);}
+#construction {background-image: url(images/construction.png);}
+#summoning {background-image: url(images/ranged.png);}
+#dungeoneering {background-image: url(images/dungeoneering.png);}
+#runecrafting {background-image: url(images/runecrafting.png);}
+#overall{background-image:url(images/overall.png);}
+#dueltournament{background-image:url(images/dueltournament.png);}
+#bountyhunters{background-image:url(images/bountyhunters.png);}
+#bountyhunterrogues{background-image:url(images/bountyhunterrogues.png);}
+#fistofguthix{background-image:url(images/fistofguthix.png);}
+#mobilisingarmies{background-image:url(images/mobilisingarmies.png);}
+#baattackers{background-image:url(images/baattackers.png);}
+#badefenders{background-image:url(images/badefenders.png);}
+#bacollectors{background-image:url(images/bacollectors.png);}
+#bahealers{background-image:url(images/bahealers.png);}
+#castlewarsgames{background-image:url(images/castlewarsgames.png);}
+#conquest{background-image:url(images/conquest.png);}
+#dominiontower{background-image:url(images/dominiontower.png);}
+
+
