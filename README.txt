@@ -1,6 +1,6 @@
-=== Better GitHub Widget ===
+=== Runescape Highscore Widget ===
 Contributors: Silabsoft
-Tags: Runescape Highscore, Highscores
+Tags: Runescape Highscore, Highscores, Runescape
 Author URI: http://Silabsoft.org
 Author: Silabsoft
 Requires at least: 3.0
