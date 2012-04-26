@@ -7,7 +7,7 @@ Requires at least: 3.0
 Tested up to: 3.3.2
 Stable tag: 0.1
 
-Better GitHub Widget allows you to display your GitHub projects on your site.
+Runescape highscore widget allows you to easily display your runescape stats in a widget.
 
 == Description ==
 
@@ -27,8 +27,8 @@ not stress your server.
 3. Place the widget to a widget area and set your runescape display name
 
 == Screenshots ==
-screenshot-1.png
-screenshot-2.png
+1. the widget administrion panel
+2. example widget public display
 
 == Changelog ==
 
