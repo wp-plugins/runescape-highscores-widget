@@ -4,7 +4,7 @@ Plugin Name: Runescape Highscore Widget
 Plugin URI: https://github.com/silabsoft/rs-highscore-widget
 Description: Display your Runescape Highscores
 Author: Silabsoft
-Version: 0.1
+Version: 0.2
 Author URI: http://silabsoft.org
 
 /*  Copyright 2012  Silabsoft  (email : admin@silabsoft.org)
