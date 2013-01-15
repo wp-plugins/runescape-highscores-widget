@@ -7,13 +7,12 @@ Requires at least: 3.0
 Tested up to: 3.3.2
 Stable tag: 0.1
 
-Better GitHub Widget allows you to display your GitHub projects on your site.
+Simple Runescape highscore widget
 
 == Description ==
 
 = A simple way of displaying your runescape stats =
-Better GitHub Widget is the best looking widget to display your
-GitHub projects, it simply blends with your theme.
+Simply display your characters highscores on your Wordpress Blog.
 
 = Client side magic =
 All of the magic of this widget happens on the user's browser, so it does
@@ -32,3 +31,5 @@ not stress your server.
 
 = 0.1 =
 * Initial Release
+= 0.2 =
+* Updated to support new  GG: Resource Race &  GG: Athletics minigame
