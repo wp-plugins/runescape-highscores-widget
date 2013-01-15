@@ -4,8 +4,8 @@ Tags: Runescape Highscore, Highscores, Runescape
 Author URI: http://Silabsoft.org
 Author: Silabsoft
 Requires at least: 3.0
-Tested up to: 3.3.2
-Stable tag: 0.1
+Tested up to: 3.5
+Stable tag: 0.2
 
 Runescape highscore widget allows you to easily display your runescape stats in a widget.
 
